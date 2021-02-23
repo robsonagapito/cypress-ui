@@ -1,7 +1,5 @@
 /// <reference types="cypress" />
 
-import testStore from "../support/commands"
-
 context('CRUD of the user', () => {
     beforeEach(() => {
         cy.visit('http://agapito-server.herokuapp.com/')
