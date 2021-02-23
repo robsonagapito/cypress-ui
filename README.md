@@ -4,8 +4,7 @@ Projeto de automação de testes de sistemas web (UI) com Cypress e JavaScript.
 ## Inicialização
 
 ### Ter o NodeJs instalado
-Realizar o download e instalar o NodeJs
-https://nodejs.org/en/download/
+
 
 ### Inicializar o projeto
 npm init --yes
