@@ -23,3 +23,4 @@ npm run cy:open
 
 ### Pela linha de comando (headless)
 npm run cy:test
+

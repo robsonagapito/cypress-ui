@@ -1,0 +1,24 @@
+{
+  "name": "cypress-ui",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes de sistemas web (UI) com Cypress e JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "cy:test": "./node_modules/.bin/cypress run",
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsonagapito/cypress-ui.git"
+  },
+  "keywords": [],
+  "author": "Robson Agapito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsonagapito/cypress-ui/issues"
+  },
+  "homepage": "https://github.com/robsonagapito/cypress-ui#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}
